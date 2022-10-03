@@ -1,5 +1,5 @@
 # CMPG-323-Project-4---36309915
-This repository will contain all submissions and requirements for Porject 4 due on 27 October 2022
+This repository will contain all submissions and requirements for Project 4 due on 27 October 2022
 
 Before one can start with this project, the following need to be in place.
 
